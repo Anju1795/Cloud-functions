@@ -1,0 +1,8 @@
+Flask==2.0.1
+Werkzeug==2.0.1
+firebase_admin
+pandas
+scikit-learn
+google-cloud-secret-manager
+openai
+

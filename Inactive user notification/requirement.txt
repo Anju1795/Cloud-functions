@@ -1,0 +1,7 @@
+functions-framework==3.*
+google-cloud-firestore
+firebase_admin
+google-cloud-pubsub
+google-cloud-secret-manager
+openai
+
